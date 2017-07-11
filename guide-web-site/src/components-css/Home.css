@@ -1,0 +1,211 @@
+
+.OSEZ{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.allrows{
+  -ms-transform: rotate(-44.5deg); /* IE 9 */
+  -webkit-transform: rotate(-44.5deg);
+  transform: rotate(-44.5deg);
+  width: 1035px;
+}
+
+.PHistoire{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+.PHistoire p{
+  font-size: 30px;
+  font-family: fantasy;
+  color: white
+}
+
+.text-r{
+  font-size:31.5px;
+  font-family: cursive;
+}
+
+.different-photos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+
+}
+
+.third-of-1st{
+  background-image: url("../photos/img8.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.third-of-1st:hover .parags{
+  display: block;
+}
+.parags{
+  display: none;
+}
+
+.second-of-2nd{
+  background-image: url("../photos/img1.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+
+.third-of-2nd{
+  background-image: url("../photos/img2.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.fourth-of-2nd{
+  background-image: url("../photos/img3.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+
+.first-of-3rd{
+  background-image: url("../photos/img4.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+.second-of-3rd{
+  background-image: url("../photos/img5.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+.third-of-3rd{
+  background-image: url("../photos/img6.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+.fourth-of-3rd{
+  background-image: url("../photos/img7.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+.fifth-of-3rd{
+  background-image: url("../photos/img8.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+.second-of-fourth{
+  background-image: url("../photos/img7.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+.third-of-fourth{
+  background-image: url("../photos/img9.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+.fourth-of-fourth{
+  background-image: url("../photos/img10.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+
+.third-of-fifth{
+  background-image: url("../photos/img10.jpg");
+  height: 12em;
+  background-size: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+
+.info-histoire1{
+  background-image: url("../photos/img10.jpg");
+  background-size: cover;
+  font-family: cursive;
+  align-items: center;
+  height: 220px;
+}
+.info-histoire2{
+  background-image: url("../photos/img9.jpg");
+  background-size: cover;
+  font-family: cursive;
+  align-items: center;
+  height: 220px;
+}
+.info-histoire3{
+  background-image: url("../photos/img8.jpg");
+  background-size: cover;
+  font-family: cursive;
+  align-items: center;
+  height: 220px;
+}
+.info-histoire4{
+  background-image: url("../photos/img7.jpg");
+  background-size: cover;
+  font-family: cursive;
+  align-items: center;
+  height: 220px;
+}
+.info-histoire5{
+  background-image: url("../photos/img6.jpg");
+  background-size: cover;
+  font-family: cursive;
+  align-items: center;
+  height: 220px;
+}
+.info-histoire6{
+  background-image: url("../photos/img5.jpg");
+  background-size: cover;
+  font-family: cursive;
+  align-items: center;
+  height: 220px;
+}
+
+.info-histoire1 p, .info-histoire2 p, .info-histoire3 p, .info-histoire4 p, .info-histoire5 p, .info-histoire6 p{
+  font-size: 30px;
+  color: white
+}
+
+.info-histoire1 h2, .info-histoire2 h2, .info-histoire3 h2, .info-histoire4 h2, .info-histoire5 h2, .info-histoire6 h2{
+  color: red;
+}
+
+.histoire-justify{
+  justify-content: space-between;
+}

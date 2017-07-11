@@ -1,0 +1,52 @@
+
+.nadine-contactmail{
+  text-align: center;
+  color: white;
+}
+
+.footer-inputFilds{
+  display: flex;
+  justify-content: center;
+  /*align-items: center;*/
+}
+.footer-row{
+  margin-top: 20px;
+}
+.form-group .input-text{
+  padding-right: 65px;
+  padding-bottom: 12px;
+  margin-bottom: 5px;
+}
+
+.form-group [name="submit"]{
+  float: right;
+  background-color: brown;
+  color: white;
+}
+.footer-fontawesome{
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  flex-direction: column;
+  align-items: center;
+  height: 180px;
+}
+.footer-fontawesome a{
+  color: white;
+}
+
+.footer-followme {
+  display: flex;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  font-family: cursive;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.nadine-contactfild{
+  margin-top: 30px;
+  background-color: blue;
+  /*opacity: 0.5;*/
+}

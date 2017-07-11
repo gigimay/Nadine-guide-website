@@ -1,0 +1,87 @@
+.page-visites{
+  margin-top: 35px;
+  justify-content: center;
+  /*background-color: white;*/
+  /*opacity: 0.8;*/
+}
+
+.visite1{
+  background-image: url("../photos/img3.jpg");
+  height: 220px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.visite2{
+  background-image: url("../photos/img2.jpg");
+  height: 220px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.visite3{
+  background-image: url("../photos/img10.jpg");
+  height: 220px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.visite4{
+  background-image: url("../photos/img6.jpg");
+  height: 220px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.visite5{
+  background-image: url("../photos/img7.jpg");
+  height: 220px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.visite6{
+  background-image: url("../photos/img8.jpg");
+  height: 220px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.visite7{
+  background-image: url("../photos/img9.jpg");
+  height: 220px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.visites-context{
+  background-color: white;
+  font-size: 20px;
+  opacity: 0.7;
+  margin-left: 1px;
+  margin-bottom: 30px;
+}
+.visit-info button{
+  float: right;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  margin-top: -30px;
+  background-color: black;
+  color: white;
+}
+.visit-info h3{
+  font-size: 35px;
+  font-weight: bold;
+  font-family: cursive;
+}
+.visit-info p{
+  color: black;
+  font-size: 20px;
+}
+
+.time{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 90px;
+  font-family: cursive;
+}

@@ -1,0 +1,141 @@
+.guide-skils{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 15px;
+}
+.guide-skils p{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+.guide-skils .Fontname{
+  font-size: 90px;
+  color: white;
+}
+
+.guide-skils h2{
+  color: red;
+  font-family: cursive;
+  font-size: 40px;
+}
+
+.nadine-name-snap{
+  margin-top: 20px;
+  padding-left: 0;
+  padding-right: 0;
+}
+.nadine-name {
+  /*background-image: url("../photos/img10.jpg");*/
+  background-color: red;
+  height: 450px;
+  background-size: cover;
+}
+.nadine-name h1{
+  font-size: 86px;
+  color: brown;
+  /*opacity: 0.6;*/
+}
+
+.nadine-name p{
+  color: white;
+  font-size: 20px;
+  font-style: oblique;
+  font-family: fantasy;
+  padding-top: 15px;
+}
+.nadine-snap{
+  background-image: url("../photos/img10.jpg");
+  height: 450px;
+  background-size: cover;
+}
+
+.recommended{
+  justify-content: center;
+}
+.recommended-head{
+  background-image: url("../photos/recommended.png");
+  height: 120px;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-size: cover;
+}
+.recommended-title h1{
+  color: white;
+  font-size: 33px;
+}
+.recommended-1{
+  background-image: url("../photos/img10.jpg");
+  height: 200px;
+  max-width: 26.333333%;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-size: cover;
+}
+.recommended-2{
+  background-image: url("../photos/img10.jpg");
+  height: 230px;
+  max-width: 26.333333%;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-size: cover;
+}
+.recommended-3{
+  background-image: url("../photos/img10.jpg");
+  height: 200px;
+  max-width: 26.333333%;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-size: cover;
+}
+.recommended-4{
+  background-image: url("../photos/img10.jpg");
+  height: 200px;
+  max-width: 26.333333%;
+  margin-top: -20px;
+  margin-right: 10px;
+  background-size: cover;
+
+}
+.recommended-5{
+  background-image: url("../photos/img10.jpg");
+  height: 230px;
+  max-width: 26.333333%;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-size: cover;
+
+}
+.recommended-6{
+  background-image: url("../photos/img10.jpg");
+  height: 200px;
+  max-width: 26.333333%;
+  margin-top: -20px;
+  margin-right: 10px;
+  background-size: cover;
+
+}
+.recommended-7{
+  background-image: url("../photos/img10.jpg");
+  height: 200px;
+  max-width: 26.333333%;
+  margin-top: -40px;
+  margin-right: 10px;
+  background-size: cover;
+}
+.recommended-8{
+  height: 50px;
+  max-width: 26.333333%;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-size: cover;
+}
+.recommended-9{
+  background-image: url("../photos/img10.jpg");
+  height: 200px;
+  max-width: 26.333333%;
+  margin-top: -40px;
+  margin-right: 10px;
+  background-size: cover;
+}
